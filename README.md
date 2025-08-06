@@ -8,7 +8,7 @@
     </tr>
     <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=HC10LY&theme=radical" width="450"/></td>
-      <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HC10LY&theme=radical" width="450"/></td>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=HC10LY&theme=radical" width="450"/></td>
     </tr>
   </table>
 </div>
